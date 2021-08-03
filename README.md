@@ -18,4 +18,4 @@ please only make your changes to this portion of the bat file: [-t 0 -gpu -gpuId
 
 -gpuId [Enables specific GPU's] ex. -gpuId 0,1,2,3,4,5,6,7 will run 8 GPU's
 
--w [your worker ID or Bitcoin Address if you prefer to remain anonymous]
+-w [your worker ID or Bitcoin Address if you prefer to remain anonymous] if using multiple rigs please use -w username.rignumber
