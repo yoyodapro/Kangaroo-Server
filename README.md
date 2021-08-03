@@ -10,7 +10,7 @@ To run please download the Git as a zip file, extract both files to the same fol
 
 Kangaroo v2.1 (Build by JeanLucPons)
 
-Kangaroo.exe -t 0 -gpu -gpuId 0,1 -w yourusername
+please only make your changes to this portion of the bat file: [-t 0 -gpu -gpuId 0,1 -w yourusername]
 
 -t [Number of CPU threads] ex. -t 1 will run one thread, 0 for no threads
 
