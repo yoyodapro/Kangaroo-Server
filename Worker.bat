@@ -1,0 +1,1 @@
+Kangrand.exe -t 6 -gpu -gpuId 0,1 -rb 120 -seq ffffffffffffff -st 800000000000000000000000000000 -en FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF target_Pubkeys.txt
