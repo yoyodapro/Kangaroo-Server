@@ -1,0 +1,1 @@
+Kangaroo.exe -t 0 -gpu -gpuId 0,1 -w "yourusername" -wss -wi 3600 -c 71.196.71.142 -sp 17403
