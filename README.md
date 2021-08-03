@@ -13,6 +13,9 @@ Kangaroo v2.1 (Build by JeanLucPons)
 Kangaroo.exe -t 0 -gpu -gpuId 0,1 -w yourusername
 
 -t [Number of CPU threads] ex. -t 1 will run one thread, 0 for no threads
+
 -gpu [Enables GPU Calculation]
+
 -gpuId [Enables specific GPU's] ex. -gpuId 0,1,2,3,4,5,6,7 will run 8 GPU's
+
 -w [your worker ID or Bitcoin Address if you prefer to remain anonymous]
