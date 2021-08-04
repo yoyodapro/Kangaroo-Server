@@ -4,6 +4,7 @@ This is a privately run Kangaroo server for cracking bitcoin private keys relate
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Please join our Discord server for updates on progress. https://discord.gg/DjMksx8wqr
+If you do not join the discord, please use your preffered BTC address as your username on your worker client. otherwise you will not be credited for work once the address is found
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 To run please download the Git as a zip file, extract both files to the same folder. YOU WILL need to modify the workerserver.bat file before you begin.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
