@@ -7,7 +7,7 @@ Please join our Discord server for updates on progress. https://discord.gg/DjMks
 
 17403 = Public Port
 
-You must join the discord to be assigned work, if you run on the public port you need to use a BTC address as your worker name otherwise you will not get paid.
+You must join the discord to be assigned work, if you run on the public port you need to use a BTC address as your worker name.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 To run please download the Git as a zip file, extract both files to the same folder. YOU WILL need to modify the workerserver.bat file before you begin.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
